@@ -77,6 +77,7 @@ password guessing worked — which is a materially different and more
 urgent finding than "someone mistyped their password five times."
 
 ## Architecture
+WTC-L6U53ZB7
 
 ```
   data/ssh.log ──┐
